@@ -1,0 +1,36 @@
+.tech-skills {
+  background: violet;
+  width: 400px;
+  box-sizing: border-box;
+  margin-top: 40px;
+}
+.contacts {
+  background: turquoise;
+  width: 400px;
+  box-sizing: border-box;
+}
+.soft-skills {
+  background: wheat;
+  width: 400px;
+  padding: 40px;
+  box-sizing: border-box;
+  margin-top: 40px;
+}
+
+.tech-skills-tytle {
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.my-element {
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: row;
+}
